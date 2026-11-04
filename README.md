@@ -1,4 +1,4 @@
-# test-opencode-github
+# test-repo-opencode
 
 Repo di prova creata per verificare commit e push con OpenCode.
 
